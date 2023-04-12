@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving!&color=pink&height=300&section=header&text=Nice%20meet%20you&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving!&color=auto&height=300&section=header&text=Nice%20meet%20you&fontSize=90)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
