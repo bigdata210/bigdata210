@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving!&color=auto&height=300&section=header&text=Nice%20meet%20you&fontSize=90)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=square&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat-square&logo=rstudio&logoColor=white)
